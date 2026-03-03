@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*.bak
+*.swp
+out_docs/
+outputs/images/**/*.png
+outputs/images/**/*.jpg
+outputs/images/**/*.webp
