@@ -1,0 +1,9 @@
+herramienta,rol,facilidad_uso_1_5,control_reproducibilidad_1_5,adherencia_prompt_1_5,consistencia_escenas_1_5,velocidad_1_5,exportacion_1_5,costo_relativo,restricciones_politicas,notas
+ChatGPT,Narrativa,5,3,4,3,5,4,Medio,Sí (contenido),Usar para paquetes narrativos y Prompt Cards
+Perplexity,Investigación,5,3,3,2,5,3,Medio,Sí (web),Usar para marco conceptual con fuentes
+Storyboarder,Storyboard,4,5,2,4,4,5,Bajo,No,Herramienta contenedora del storyboard final
+Midjourney,Imagen,3,3,4,3,4,4,Medio-Alto,Sí,Medir consistencia con seed y style reference
+Stable Diffusion,Imagen,2,5,3,4,3,4,Variable,Depende UI,Ideal para comparaciones reproducibles
+OpenAI Images,Imagen,4,4,4,3,4,4,Medio,Sí,Útil para edición e iteración controlada
+Leonardo (Phoenix),Imagen,4,3,3,3,4,4,Medio,Sí,Evaluar por géneros y presets
+Ideogram,Imagen,4,3,3,2,4,4,Medio,Sí,Probar cuando haya texto/títulos en imagen

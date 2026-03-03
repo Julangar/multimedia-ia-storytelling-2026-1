@@ -1,0 +1,17 @@
+herramienta,categoria,rol_fase,acceso,costo_aprox,fortalezas,limitaciones,control_reproducibilidad,exportacion,notas
+ChatGPT (OpenAI),Narrativa,Fase 1,Web/App/API,Plan según cuenta,"Ideación, guion, diálogos, variantes",Riesgo de alucinación; requiere verificación,Media (documentar modelo/parámetros),Texto/Docs,Guardar prompts y configuración usada
+Gemini (Google),Narrativa,Fase 1,Web/App,Plan según cuenta,"Síntesis, redacción, brainstorming",Variabilidad por versión/plan,Media,Texto/Docs,Registrar versión/fecha
+Claude (Anthropic),Narrativa,Fase 1,Web/API,Plan según cuenta,Redacción larga; tono consistente,Limitaciones por plan/políticas,Media,Texto/Docs,Registrar modelo y prompt
+Perplexity,Investigación,Fase 1,Web/App,Plan según cuenta,Búsqueda + síntesis con fuentes,Depende de fuentes web; sesgo de resultados,Media,Links/Texto,Guardar URLs y fecha de consulta
+Character.AI,Personajes,Fase 1,Web/App,Plan según cuenta,Explorar voces/roles de personaje,No orientado a rigor/validación,Baja,Texto,Usar como apoyo creativo; documentar
+Storyboarder (Wonder Unit),Storyboard,Fase 3,Desktop,Gratis,Storyboard rápido; animatic; organizado por escenas,No IA nativa; requiere bocetar,Alta (archivos locales),PDF/Animatic,Útil como contenedor final del storyboard
+Canva (Docs/Magic Write),Guion/Presentación,Fase 1-3,Web,Plan según cuenta,Plantillas; colaboración; exportación,Control IA limitado; funciones varían,Media,PDF/PPTX,Bueno para presentar entregables
+Tome,Presentación narrativa,Fase 1-3,Web,Plan según cuenta,Estructura tipo slides; narrativa visual,Disponibilidad/funciones pueden variar,Media,Export variable,Validar acceso antes de usar en pruebas
+Figma,Prototipo,Fase 4,Web/Desktop,Plan según cuenta,Prototipo interactivo; wireframes,No IA narrativa nativa,Alta,Links/Export,Para flujo guion→prototipo
+Midjourney,Imagen,Fase 2-4,Discord/Web,Suscripción,Estética alta; variedad de estilos,Dependencia de plataforma; control parcial,Media (seed ayuda),Descargas,Registrar seed/parámetros
+OpenAI Images (GPT Image / DALL·E),Imagen,Fase 2-4,API,Pago por uso,Buena adherencia; edición/inpainting,Costo por uso; límites por API,Media-Alta,Archivos,Guardar parámetros y prompt exacto
+Stable Diffusion (ecosistema),Imagen,Fase 2-4,Local/Nube,Variable,Alto control; extensible (ControlNet/LoRA),Curva alta; setup,Alta (seed/params),Archivos,Ideal para reproducibilidad
+Leonardo (Phoenix),Imagen,Fase 2-4,Web/API,Plan según cuenta,Buena adherencia; presets,Control depende del plan,Media,Archivos,Registrar preset/modelo
+Ideogram,Imagen,Fase 2-4,Web/API,Plan según cuenta,Buen texto en imagen; estilos,Control variable,Media,Archivos,Útil para títulos/carteles
+Leonardo (Lightning),Imagen,Fase 2-4,Web,Plan según cuenta,Generación rápida (según proveedor),Puede sacrificar detalle,Media,Archivos,Usar para pruebas de velocidad
+Cinematic Kino (si aplica),Imagen/estilo,Fase 2-4,Web/variable,Variable,Estilo cinematográfico (dependiente del proveedor),Disponibilidad incierta,Media,Archivos,Confirmar acceso/versión antes de incluir
