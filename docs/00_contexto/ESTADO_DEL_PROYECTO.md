@@ -151,3 +151,27 @@ Los entregables siguen formato académico en **APA 7**, usando la plantilla del 
 
 - **Commit sugerido:**
   - `Add Entregable B, prompt cards v1, narrative packages, and phase-2 logbook prep`
+
+## Resumen de avance — 2026-03-16
+- **Qué se hizo:**
+  - Se revisaron los archivos H1_prompt_cards_v1.md, H2_prompt_cards_v1.md y H3_prompt_cards_v1.md.
+  - Se generaron las versiones v2, manteniendo el formato y la estructura original.
+  - Se tradujo únicamente el contenido de las líneas Prompt (EN) para dejarlas completamente en inglés.
+
+- **Evidencia (links):**
+  - Archivo(s): H1_prompt_cards_v2.md, H2_prompt_cards_v2.md, H3_prompt_cards_v2.md
+
+- **Decisiones:**
+  - No se modificaron Prompt (ES), Negative prompt, Línea guía, ni la estructura de escenas.
+  - Se conservó el nombre base de cada archivo y solo se cambió el sufijo de versión a v2.
+
+- **Próximo paso:**
+  - Validar las traducciones en el flujo de generación de imágenes y usar estas versiones como base para pruebas comparativas.
+
+- **Commit sugerido:**
+  - `docs(prompts): translate EN prompt cards for H1 H2 H3 and publish v2 files`
+
+- **Archivos que cambian:**
+  - H1_prompt_cards_v2.md
+  - H2_prompt_cards_v2.md
+  - H3_prompt_cards_v2.md
