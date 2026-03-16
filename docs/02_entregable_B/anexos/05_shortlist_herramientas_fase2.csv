@@ -1,0 +1,10 @@
+fase,tipo,herramienta,prioridad,uso_propuesto,justificacion,riesgo_o_nota
+Fase 1-2,Narrativa,ChatGPT,Alta,Paquetes narrativos y refinamiento de escenas,Ya fue priorizado en Entregable A como herramienta base de ideación y variación controlada,Verificar versiones y guardar prompts finales
+Fase 1-2,Narrativa,Gemini,Media,Comparar redacción/variantes,Útil para contrastar sinopsis y escaletas,Registrar versión y diferencias
+Fase 1-2,Narrativa,Claude,Media,Comparar tono editorial y consistencia,Útil para redacción larga,Registrar plan/modelo
+Fase 2,Imagen,Midjourney,Alta,Comparar estilo cinematográfico / alta estética,Seed y style reference ayudan a control parcial,Acceso de pago; documentar parámetros
+Fase 2,Imagen,OpenAI Images,Alta,Pruebas con prompts controlados y edición,Buena adherencia y pipeline reproducible por API,Registrar modelo y settings
+Fase 2,Imagen,Leonardo Phoenix,Alta,Evaluar balance entre calidad y velocidad,Fue recomendado en Entregable A como candidato principal,Registrar preset/modelo
+Fase 2,Imagen,Ideogram,Media,Escenas con texto/rotulación si aplica,Fortaleza en texto dentro de imagen,No usar como único generador base
+Fase 2,Imagen,Stable Diffusion,Media-Alta,Comparación de reproducibilidad local/nube,Mayor control experimental,Requiere setup más complejo
+Fase 3,Storyboard,Storyboarder,Alta,Compilar storyboard final y exportar PDF,Herramienta contenedora recomendada en Entregable A,No genera IA nativa
