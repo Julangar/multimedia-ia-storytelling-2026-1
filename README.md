@@ -16,7 +16,8 @@ Realizar un estudio aplicado y comparativo de herramientas de **narrativa asisti
 
 ## Entregables (cronograma)
 - **Entregable A:** Inventario + matriz comparativa + rúbrica + 3 historias de prueba (géneros).  
-- Entregables siguientes: Paquetes narrativos, pruebas de imagen, mini historia (6–10), evaluación “mismo prompt”, informe comparativo, manuales y repositorio de experimentos.
+- **Entregable B:** Paquetes narrativos + prompt cards”.
+- Entregables siguientes: Pruebas de imagen, mini historia (6–10), evaluación “mismo prompt”, informe comparativo, manuales y repositorio de experimentos.
 
 ## Estructura del repositorio
 - `/docs`: entregables en PDF y anexos.
