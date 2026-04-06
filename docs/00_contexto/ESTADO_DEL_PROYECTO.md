@@ -175,3 +175,49 @@ Los entregables siguen formato académico en **APA 7**, usando la plantilla del 
   - H1_prompt_cards_v2.md
   - H2_prompt_cards_v2.md
   - H3_prompt_cards_v2.md
+
+## Resumen de avance — 2026-03-30
+- **Qué se hizo:**
+  - Se consolidó el Entregable C con pruebas iniciales de generación de imágenes.
+  - Se revisaron 54 outputs: 6 de ChatGPT, 24 de Leonardo Phoenix y 24 de Ideogram.
+  - Se generó una selección recomendada de 18 resultados finales (1 por escena-herramienta).
+  - Se actualizó la bitácora eliminando `fecha_hora` y `tiempo_seg`.
+  - Se creó una guía de scoring para diligenciar la rúbrica de forma rápida y consistente.
+
+- **Evidencia:**
+  - `docs/03_entregable_C/Entregable_C_GI-II_2026-1_Julian_Garcia.pdf`
+  - `docs/03_entregable_C/anexos/`
+  - `logbook/bitacora_experimentos_C_finales.csv`
+
+- **Decisiones:**
+  - Se comparan 3 herramientas en este corte: ChatGPT, Leonardo Phoenix e Ideogram.
+  - Se mantiene el set de 6 escenas definido para C.
+  - La evaluación cuantitativa se diligencia sobre 18 outputs seleccionados, no sobre las 54 variantes.
+
+- **Próximo paso:**
+  - Completar scores en la bitácora.
+  - Consolidar el Entregable D con mini historia/storyboard y resultados seleccionados.
+
+- **Commit sugerido:** `Add Entregable C, scoring guide, selected outputs logbook, and comparative figures`
+
+## Resumen de avance — 2026-04-06
+- **Qué se hizo:**
+  - Se integró la bitácora final del Entregable C con puntuaciones completas.
+  - Se consolidó el análisis cuantitativo por herramienta, por historia y por escena.
+  - Se definió una selección recomendada de outputs para llevar al Entregable D.
+  - Se ajustó la documentación del corte para dejarlo listo para envío y archivado en el repo.
+
+- **Evidencia:**
+  - `docs/03_entregable_C/Entregable_C_GI-II_2026-1_Julian_Garcia.pdf`
+  - `docs/03_entregable_C/anexos/03_bitacora_experimentos_C_finales.csv`
+  - `docs/03_entregable_C/anexos/06_seleccion_recomendada_por_escena.csv`
+
+- **Decisiones:**
+  - Se toma Ideogram como mejor promedio global del corte.
+  - Se toma Leonardo como la herramienta con mejor control práctico y mejor desempeño en H3.
+  - Se documenta ChatGPT como opción simple y funcional, pero con menor control experimental.
+
+- **Próximo paso:**
+  - Iniciar Entregable D usando la selección recomendada por escena como base del storyboard.
+
+- **Commit sugerido:** `Finalize Entregable C with completed scoring, summaries, and recommended scene outputs`

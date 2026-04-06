@@ -1,0 +1,10 @@
+historia,herramienta,score_alineacion,score_personaje,score_estilo,score_calidad,score_storyboard,score_control,score_total,score_promedio
+H1,ideogram,4.5,4.5,4.0,4.5,4.5,4.0,26.0,4.33
+H1,leonardo,4.0,3.0,4.0,4.5,4.0,5.0,24.5,4.08
+H1,chatgpt,3.5,3.5,4.0,4.5,5.0,3.0,23.5,3.92
+H2,ideogram,4.0,3.5,3.5,4.0,4.0,4.0,23.0,3.83
+H2,leonardo,3.5,3.0,3.5,3.5,3.5,5.0,22.0,3.67
+H2,chatgpt,3.0,3.0,4.0,2.0,3.5,3.0,18.5,3.08
+H3,leonardo,4.0,4.0,4.0,4.0,4.0,5.0,25.0,4.17
+H3,ideogram,4.0,4.0,4.0,4.0,4.0,4.0,24.0,4.0
+H3,chatgpt,4.0,4.0,4.0,4.0,4.0,3.0,23.0,3.83

@@ -1,0 +1,55 @@
+historia,escena,herramienta,modelo_version,archivo,variante,ancho_px,alto_px,ratio_real,observacion_tecnica
+H1,S01,chatgpt,Ultimo modelo ChatGPT,H1_S01_chatgpt_v01.png,v01,1536,1024,1.5,Generación única por escena; las escenas esperadas en 4:3 también salieron en 16:9.
+H1,S08,chatgpt,Ultimo modelo ChatGPT,H1_S08_chatgpt_v01.png,v01,1536,1024,1.5,Generación única por escena; las escenas esperadas en 4:3 también salieron en 16:9.
+H2,S01,chatgpt,Ultimo modelo ChatGPT,H2_S01_chatgpt_v01.png,v01,1536,1024,1.5,Generación única por escena; las escenas esperadas en 4:3 también salieron en 16:9.
+H2,S08,chatgpt,Ultimo modelo ChatGPT,H2_S08_chatgpt_v01.png,v01,1536,1024,1.5,Generación única por escena; las escenas esperadas en 4:3 también salieron en 16:9.
+H3,S01,chatgpt,Ultimo modelo ChatGPT,H3_S01_chatgpt_v01.png,v01,1536,1024,1.5,Generación única por escena; las escenas esperadas en 4:3 también salieron en 16:9.
+H3,S07,chatgpt,Ultimo modelo ChatGPT,H3_S07_chatgpt_v01.png,v01,1536,1024,1.5,Generación única por escena; las escenas esperadas en 4:3 también salieron en 16:9.
+H1,S01,ideogram,Auto (3.0),H1_S01_ideogram_v01.jpeg,v01,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H1,S01,ideogram,Auto (3.0),H1_S01_ideogram_v02.jpeg,v02,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H1,S01,ideogram,Auto (3.0),H1_S01_ideogram_v03.jpeg,v03,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H1,S01,ideogram,Auto (3.0),H1_S01_ideogram_v04.jpeg,v04,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H1,S08,ideogram,Auto (3.0),H1_S08_ideogram_v01.jpeg,v01,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H1,S08,ideogram,Auto (3.0),H1_S08_ideogram_v02.jpeg,v02,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H1,S08,ideogram,Auto (3.0),H1_S08_ideogram_v03.jpeg,v03,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H1,S08,ideogram,Auto (3.0),H1_S08_ideogram_v04.jpeg,v04,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H2,S01,ideogram,Auto (3.0),H2_S01_ideogram_v01.jpeg,v01,1152,864,1.333,4 variantes por escena; plan free sin seed ni negative prompt.
+H2,S01,ideogram,Auto (3.0),H2_S01_ideogram_v02.jpeg,v02,1152,864,1.333,4 variantes por escena; plan free sin seed ni negative prompt.
+H2,S01,ideogram,Auto (3.0),H2_S01_ideogram_v03.jpeg,v03,1152,864,1.333,4 variantes por escena; plan free sin seed ni negative prompt.
+H2,S01,ideogram,Auto (3.0),H2_S01_ideogram_v04.jpeg,v04,1152,864,1.333,4 variantes por escena; plan free sin seed ni negative prompt.
+H2,S08,ideogram,Auto (3.0),H2_S08_ideogram_v01.jpeg,v01,1152,864,1.333,4 variantes por escena; plan free sin seed ni negative prompt.
+H2,S08,ideogram,Auto (3.0),H2_S08_ideogram_v02.jpeg,v02,1152,864,1.333,4 variantes por escena; plan free sin seed ni negative prompt.
+H2,S08,ideogram,Auto (3.0),H2_S08_ideogram_v03.jpeg,v03,1152,864,1.333,4 variantes por escena; plan free sin seed ni negative prompt.
+H2,S08,ideogram,Auto (3.0),H2_S08_ideogram_v04.jpeg,v04,1152,864,1.333,4 variantes por escena; plan free sin seed ni negative prompt.
+H3,S01,ideogram,Auto (3.0),H3_S01_ideogram_v01.jpeg,v01,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H3,S01,ideogram,Auto (3.0),H3_S01_ideogram_v02.jpeg,v02,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H3,S01,ideogram,Auto (3.0),H3_S01_ideogram_v03.jpeg,v03,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H3,S01,ideogram,Auto (3.0),H3_S01_ideogram_v04.jpeg,v04,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H3,S07,ideogram,Auto (3.0),H3_S07_ideogram_v01.jpeg,v01,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H3,S07,ideogram,Auto (3.0),H3_S07_ideogram_v02.jpeg,v02,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H3,S07,ideogram,Auto (3.0),H3_S07_ideogram_v03.jpeg,v03,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H3,S07,ideogram,Auto (3.0),H3_S07_ideogram_v04.jpeg,v04,1312,736,1.783,4 variantes por escena; plan free sin seed ni negative prompt.
+H1,S01,leonardo,Phoenix 1.0,H1_S01_leonardo_phoenix_v01.jpg,v01,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H1,S01,leonardo,Phoenix 1.0,H1_S01_leonardo_phoenix_v02.jpg,v02,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H1,S01,leonardo,Phoenix 1.0,H1_S01_leonardo_phoenix_v03.jpg,v03,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H1,S01,leonardo,Phoenix 1.0,H1_S01_leonardo_phoenix_v04.jpg,v04,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H1,S08,leonardo,Phoenix 1.0,H1_S08_leonardo_phoenix_v01.jpg,v01,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H1,S08,leonardo,Phoenix 1.0,H1_S08_leonardo_phoenix_v02.jpg,v02,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H1,S08,leonardo,Phoenix 1.0,H1_S08_leonardo_phoenix_v03.jpg,v03,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H1,S08,leonardo,Phoenix 1.0,H1_S08_leonardo_phoenix_v04.jpg,v04,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H2,S01,leonardo,Phoenix 1.0,H2_S01_leonardo_phoenix_v01.jpg,v01,1184,896,1.321,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H2,S01,leonardo,Phoenix 1.0,H2_S01_leonardo_phoenix_v02.jpg,v02,1184,896,1.321,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H2,S01,leonardo,Phoenix 1.0,H2_S01_leonardo_phoenix_v03.jpg,v03,1184,896,1.321,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H2,S01,leonardo,Phoenix 1.0,H2_S01_leonardo_phoenix_v04.jpg,v04,1184,896,1.321,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H2,S08,leonardo,Phoenix 1.0,H2_S08_leonardo_phoenix_v01.jpg,v01,1184,896,1.321,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H2,S08,leonardo,Phoenix 1.0,H2_S08_leonardo_phoenix_v02.jpg,v02,1184,896,1.321,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H2,S08,leonardo,Phoenix 1.0,H2_S08_leonardo_phoenix_v03.jpg,v03,1184,896,1.321,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H2,S08,leonardo,Phoenix 1.0,H2_S08_leonardo_phoenix_v04.jpg,v04,1184,896,1.321,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H3,S01,leonardo,Phoenix 1.0,H3_S01_leonardo_phoenix_v01.jpg,v01,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H3,S01,leonardo,Phoenix 1.0,H3_S01_leonardo_phoenix_v02.jpg,v02,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H3,S01,leonardo,Phoenix 1.0,H3_S01_leonardo_phoenix_v03.jpg,v03,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H3,S01,leonardo,Phoenix 1.0,H3_S01_leonardo_phoenix_v04.jpg,v04,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H3,S07,leonardo,Phoenix 1.0,H3_S07_leonardo_phoenix_v01.jpg,v01,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H3,S07,leonardo,Phoenix 1.0,H3_S07_leonardo_phoenix_v02.jpg,v02,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H3,S07,leonardo,Phoenix 1.0,H3_S07_leonardo_phoenix_v03.jpg,v03,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.
+H3,S07,leonardo,Phoenix 1.0,H3_S07_leonardo_phoenix_v04.jpg,v04,1376,768,1.792,4 variantes por escena; fixed seed activado pero no sostuvo consistencia adecuada.

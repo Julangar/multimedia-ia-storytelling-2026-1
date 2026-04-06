@@ -5,6 +5,6 @@ Thumbs.db
 *.bak
 *.swp
 out_docs/
-outputs/images/**/*.png
-outputs/images/**/*.jpg
+
+
 outputs/images/**/*.webp

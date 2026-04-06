@@ -17,7 +17,7 @@ Realizar un estudio aplicado y comparativo de herramientas de **narrativa asisti
 ## Entregables (cronograma)
 - **Entregable A:** Inventario + matriz comparativa + rúbrica + 3 historias de prueba (géneros).  
 - **Entregable B:** Paquetes narrativos + prompt cards”.
-- Entregables siguientes: Pruebas de imagen, mini historia (6–10), evaluación “mismo prompt”, informe comparativo, manuales y repositorio de experimentos.
+- **Entregable C:** Generación de imagens + bitacora de experimentos + análisis comparativo.
 
 ## Estructura del repositorio
 - `/docs`: entregables en PDF y anexos.
@@ -29,7 +29,7 @@ Realizar un estudio aplicado y comparativo de herramientas de **narrativa asisti
 ## Convención de nombres
 - Historias: `H1_...`, `H2_...`, `H3_...`
 - Outputs: `H1_S03_tool_model_seed_v01.png` (sin espacios)
-- Experimentos (bitácora): `EXP-YYYYMMDD-###`
+- Experimentos (bitácora): `bitacora_experimentos_entregable.csv`
 
 ## Referencias y normas
 Los entregables se presentan en **APA 7**. Ver plantilla en:
