@@ -18,6 +18,8 @@ Realizar un estudio aplicado y comparativo de herramientas de **narrativa asisti
 - **Entregable A:** Inventario + matriz comparativa + rúbrica + 3 historias de prueba (géneros).  
 - **Entregable B:** Paquetes narrativos + prompt cards”.
 - **Entregable C:** Generación de imagens + bitacora de experimentos + análisis comparativo.
+- **Entregable D:** Storyboard final de una historia seleccionada (6–10 imágenes) + bitácora resumida.
+- **Entregable E:** Evaluación comparativa final con análisis de resultados, limitaciones y recomendaciones.
 
 ## Estructura del repositorio
 - `/docs`: entregables en PDF y anexos.
