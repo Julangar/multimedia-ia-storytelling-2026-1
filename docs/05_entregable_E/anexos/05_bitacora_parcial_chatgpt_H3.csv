@@ -1,0 +1,9 @@
+experimento_id,historia,escena,herramienta,modelo_version,estrategia_prompt,negative_prompt,seed,ratio,variantes_generadas,output_seleccionado,observaciones
+EXP-E-CHATGPT-001,H3,S01,ChatGPT Images,Último modelo disponible en ChatGPT,anclajes iniciales + prompt completo,negative prompt incluido en texto,N/A,16:9,1,H3_S01_chatgpt_v01.png,Línea base de arranque; buena presentación y cohesión general
+EXP-E-CHATGPT-002,H3,S02,ChatGPT Images,Último modelo disponible en ChatGPT,prompt completo escena,negative prompt incluido en texto,N/A,16:9,1,H3_S02_chatgpt_v01.png,Buena continuidad general; leve deriva facial
+EXP-E-CHATGPT-003,H3,S03,ChatGPT Images,Último modelo disponible en ChatGPT,prompt completo escena,negative prompt incluido en texto,N/A,16:9,1,H3_S03_chatgpt_v01.png,Continuidad aceptable; mapa y gestualidad cambian ligeramente
+EXP-E-CHATGPT-004,H3,S04,ChatGPT Images,Último modelo disponible en ChatGPT,prompt completo escena,negative prompt incluido en texto,N/A,16:9,1,H3_S04_chatgpt_v01.png,Buen dramatismo; consistencia de objetos parcial
+EXP-E-CHATGPT-005,H3,S05,ChatGPT Images,Último modelo disponible en ChatGPT,prompt completo escena,negative prompt incluido en texto,N/A,16:9,1,H3_S05_chatgpt_v01.png,Escena fuerte narrativamente; continuidad visual buena
+EXP-E-CHATGPT-006,H3,S06,ChatGPT Images,Último modelo disponible en ChatGPT,prompt completo + edición iterativa v2/v3,negative prompt incluido en texto,N/A,16:9,3,H3_S06_chatgpt_v03.png,Se requirió corrección manual de mano/libro; seleccionar v03
+EXP-E-CHATGPT-007,H3,S07,ChatGPT Images,Último modelo disponible en ChatGPT,prompt completo escena,negative prompt incluido en texto,N/A,16:9,1,H3_S07_chatgpt_v01.png,Muy buena atmósfera; consistencia aceptable
+EXP-E-CHATGPT-008,H3,S08,ChatGPT Images,Último modelo disponible en ChatGPT,prompt completo escena,negative prompt incluido en texto,N/A,16:9,1,H3_S08_chatgpt_v01.png,Buen cierre visual; personajes consistentes a nivel macro
