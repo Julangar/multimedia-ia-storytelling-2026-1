@@ -1,0 +1,5 @@
+herramienta,condicion,score_alineacion,score_personaje,score_estilo,score_calidad,score_storyboard,score_control,score_promedio
+ChatGPT Images,base_chatgpt,4.47,4.07,4.4,4.33,4.6,3.57,4.24
+Ideogram,refined_ideogram_reference,4.7,4.6,4.73,4.63,4.7,3.9,4.54
+Leonardo AI,refined_leonardo_pe_off,1.9,1.43,2.03,1.93,1.77,2.23,1.88
+Leonardo AI,refined_leonardo_pe_on,2.2,1.8,2.37,2.27,2.2,2.3,2.19

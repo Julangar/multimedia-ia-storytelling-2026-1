@@ -1,0 +1,13 @@
+escena,condicion,score_promedio
+S01,base_chatgpt,4.27
+S01,refined_ideogram_reference,4.5
+S01,refined_leonardo_pe_off,1.87
+S01,refined_leonardo_pe_on,2.08
+S04,base_chatgpt,4.13
+S04,refined_ideogram_reference,4.53
+S04,refined_leonardo_pe_off,1.93
+S04,refined_leonardo_pe_on,2.1
+S07,base_chatgpt,4.32
+S07,refined_ideogram_reference,4.6
+S07,refined_leonardo_pe_off,1.85
+S07,refined_leonardo_pe_on,2.38
