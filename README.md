@@ -20,6 +20,9 @@ Realizar un estudio aplicado y comparativo de herramientas de **narrativa asisti
 - **Entregable C:** Generación de imagens + bitacora de experimentos + análisis comparativo.
 - **Entregable D:** Storyboard final de una historia seleccionada (6–10 imágenes) + bitácora resumida.
 - **Entregable E:** Evaluación comparativa final con análisis de resultados, limitaciones y recomendaciones.
+- **Entregable F:** Informe comparativo
+- **Entregable Final:** Versión pulida (PDF final + anexos + repositorio) lista para validación de
+créditos.
 
 ## Estructura del repositorio
 - `/docs`: entregables en PDF y anexos.
