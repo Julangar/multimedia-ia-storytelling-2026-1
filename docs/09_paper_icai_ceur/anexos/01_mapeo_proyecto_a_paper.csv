@@ -1,0 +1,9 @@
+seccion_paper,evidencia_proyecto,archivo_fuente,estado
+Introduction,Problema de consistencia narrativa/visual,"Entregable Final, Entregable F",Listo para redactar
+Related Work,Storytelling y book-to-image,"storytelleing.pdf, Storytelling REV.pdf",Requiere ampliar referencias
+Case Study Design,H1-H3 y selección de H3,Entregable A/B/D,Listo
+Experimental Setup,"Herramientas, condiciones, prompts",Entregable C/E y bitácoras,Listo
+Results,Scores C/E y figuras,"anexos CSV, outputs.zip",Listo como piloto
+Discussion,Visual references vs prompt-only,Entregable E/F,Listo
+Threats to Validity,Limitaciones documentadas,Entregable F/Final,Listo
+Conclusions,Hallazgos y trabajo futuro,Entregable F/Final,Listo
