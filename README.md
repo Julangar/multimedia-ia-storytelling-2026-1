@@ -23,6 +23,7 @@ Realizar un estudio aplicado y comparativo de herramientas de **narrativa asisti
 - **Entregable F:** Informe comparativo
 - **Entregable Final:** Versión pulida (PDF final + anexos + repositorio) lista para validación de
 créditos.
+- **Poster:** Presentación visual del proyecto.
 
 ## Estructura del repositorio
 - `/docs`: entregables en PDF y anexos.
@@ -42,3 +43,4 @@ Los entregables se presentan en **APA 7**. Ver plantilla en:
 
 ## Contacto
 - Julian Andres Garcia Guerrero — 20171020011
+- Email: jagarciaguer@msn.com, julangarciag@udistrital.edu.co
